@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data Course Project - Young Lee (Student) - December 2016 
+Getting and Cleaning Data Course Project - Young Lee (Student) - January 2017
 ###
 *** Purpose:  Demonstrate ability to collect, work with, and clean a data set. ***   
 ###
