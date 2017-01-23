@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Week4 Assignment
-Getting and Cleaning Data Course Week4 Assignment - Young Lee (Student) - January 2017
+Young Lee (Student) - January 2017
 ###
 *** Purpose:  Demonstrate ability to collect, work with, and clean a data set. ***   
 ###
