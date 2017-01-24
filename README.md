@@ -28,6 +28,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 # The repository includes the following files:
 1. 'README.md'
-2. 'codebook.md'
+2. 'CodeBook.md'
 3. 'run_analysis.R'
-4. 'second_set.tx'
+4. 'second_set.txt'
