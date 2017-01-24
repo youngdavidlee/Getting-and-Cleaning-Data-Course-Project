@@ -30,4 +30,3 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 1. 'README.md'
 2. 'CodeBook.md'
 3. 'run_analysis.R'
-4. 'second_set.txt'
