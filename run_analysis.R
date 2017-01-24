@@ -36,3 +36,5 @@ combinedSet <- cbind(combinedPerson, combinedMoves, combinedSet)
 #Descriptive variable name column
 names(combinedSet)[1:2] <- c("PersonID", "Types of Activities")
 #Transformed raw data into tidy data set "combinedSet"
+write.table(combinedSet, file = "tidydata2.txt", row.name = FALSE)
+
